@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
 //here we import in our loader spinner image
 import loader from './images/loader.svg';
-
 import clearButton from './images/close-icon.svg';
-
 import Gif from './Gif';
 
 
